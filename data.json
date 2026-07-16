@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": "67a73698-5d6f-476b-8cf6-05ec86336cb0",
+      "title": "da",
+      "content": "da",
+      "category": "tech",
+      "author": "Anonymous",
+      "createdAt": "2026-07-16T08:20:56.538Z",
+      "replies": [],
+      "views": 0
+    },
+    {
+      "id": "364e93b7-203d-46aa-98f6-d36c42c044a7",
+      "title": "Test Post",
+      "content": "This is a test",
+      "category": "tech",
+      "author": "Anonymous",
+      "createdAt": "2026-07-16T08:19:47.616Z",
+      "replies": [],
+      "views": 0
+    },
+    {
+      "id": "cb0fbf3b-6786-4558-b6d1-c284e4a9b355",
+      "title": "daadadcad",
+      "content": "dda",
+      "category": "tech",
+      "author": "Anonymous",
+      "createdAt": "2026-07-16T07:56:35.228Z",
+      "replies": [],
+      "views": 0
+    },
+    {
+      "id": "a603cf81-084a-4b75-b000-c944f4a11324",
+      "title": "Test Tech Category Post",
+      "content": "This is a test post for testing the technology category posting functionality.",
+      "category": "tech",
+      "author": "Anonymous",
+      "createdAt": "2026-07-16T07:55:18.747Z",
+      "replies": [],
+      "views": 0
+    },
+    {
+      "id": "91e58fdf-4817-4e79-9260-6247b920e269",
+      "title": "eqdadar",
+      "content": "qeeqda",
+      "category": "general",
+      "author": "Anonymous",
+      "createdAt": "2026-07-16T07:41:03.855Z",
+      "replies": [],
+      "views": 0
+    },
+    {
+      "id": "c5cf234e-8b48-45a1-b902-4d09683594ec",
+      "title": "technologi",
+      "content": "dad",
+      "category": "general",
+      "author": "Anonymous",
+      "createdAt": "2026-07-16T07:23:58.468Z",
+      "replies": [],
+      "views": 0
+    },
+    {
+      "id": "87e66ff1-c395-48cf-aa24-923396d37d56",
+      "title": "adada",
+      "content": "adada",
+      "category": "general",
+      "author": "Anonymous",
+      "createdAt": "2026-07-16T07:22:29.586Z",
+      "replies": [
+        {
+          "id": "c5f7ce50-7401-4b42-b3fc-7c65b4799621",
+          "content": "eqda",
+          "author": "Anonymous",
+          "createdAt": "2026-07-16T07:22:42.173Z"
+        }
+      ],
+      "views": 3
+    }
+  ]
+}
